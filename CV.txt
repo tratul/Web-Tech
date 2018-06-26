@@ -1,0 +1,71 @@
+<html>
+	<head>
+		<title>CV</title>
+		<style>
+			#Header {
+				
+				color: black;
+				padding: 10px;
+				text-align: left;
+				line-height: 0.2;
+			}
+		</style>
+	</head>
+	
+	<body style="padding-left: 200px; padding-right: 200px; padding-bottom: 20px">
+		<div id = "Header">
+			<p style="text-align: right">
+				<img src="ProfileImage.jpg" alt="Profile Picture" style= "width:100px;height:150px; text-align:right">
+			</P>
+			<h5>MD. MAHMUDUL HASAN BHUIYAN</h5>
+			<P>Cell - <a href="callto://+8801682927466">+8801682927466</a> </P>
+			<P>Email - <a href="mailto:mahmudulhasan661@gmail.com">mahmudulhasan661@gmail.com</a> </P> 
+			<P>Skype -<a href = "skype: skype.com?call">mahmudul_hasan51 </a> </P>
+			
+		</div>
+		<div style= "">
+			<h5 style="color:blue">EDUCATION </h5>
+			<p style="text-align: right">
+				   Bachelor in Software Engineering <br> 
+				<b>American International University-Bangladesh(Running)</b>
+			</p>
+			<p style="text-align: right">
+				   HSC <br>
+				<b>Dhaka Imperial College(2015)</b>
+			</p>
+			<p style="text-align: right">
+				   SSC <br>
+				<b>Shijiara High School(2013)</b>
+			</p>
+		</div>
+		<div>
+			<h5 style="color:blue">TECHNICAL SKILLS </h5>
+			<p style="text-align: right">
+				Tools <br>
+				<b>C, C++,HTML5, JAVA, PHP, MySql, MS Office<b>
+
+			</p>
+		</div>
+		<div>
+			<h5 style="color:blue">CAREER APPLICATION</h5>
+			<p style="text-align: right">
+				Looking For	:	Entry Level Job <br>
+				Available For	:	Part Time <br>
+				Preferred Job Category	:	Front-end Web Developer<br>
+				Major Focus	:	Back-end Web Developer<br>
+				Preferred Location 	:	Dhaka <br>
+				Preferred Organization Types	:	Software Company, IT Farms.<br>
+			</p>
+		</div>
+		<div>
+			<h5 style="color:blue">PARSONAL PROFILE</h5>
+			<p style="text-align: right">
+				Father’s Name:  Md.Anyaet Ullah Bhuiyan<br>
+				Mother’s Name:   Hasina Aktar <br>
+				Date of Birth:  28 Jan 1997<br>
+				Nationality: Bangladeshi<br>
+			</p>
+			
+		</div>
+	</body>
+</html>
